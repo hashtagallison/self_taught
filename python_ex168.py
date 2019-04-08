@@ -1,2 +1,2 @@
 
-"cat " + " in" + " the" + " hat"
+"cat" + " in" + " the" + " hat"
